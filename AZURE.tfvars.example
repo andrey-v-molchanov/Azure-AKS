@@ -1,0 +1,9 @@
+# Follow https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/service_principal_client_secret
+
+prefix   = "prefix"
+location = "West Europe"
+
+client_id       = "***"
+client_secret   = "***"
+tenant_id       = "***"
+subscription_id = "***"
